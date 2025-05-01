@@ -82,8 +82,8 @@
             >;
         };
 
-        Fun {
-            display-name = "Fun";
+        Why {
+            display-name = "Why";
             bindings = <
         &bootloader  &trans  &trans  &trans  &to 4     &trans  &trans  &trans  &kp END  &kp F1
         &trans       &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans   &kp F10
